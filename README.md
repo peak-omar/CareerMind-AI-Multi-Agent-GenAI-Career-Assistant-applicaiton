@@ -11,10 +11,9 @@
 
 ## 👨‍💻 Creator
 
-**Muhammad Ghulam Jillani** - Principal Cloud AI Data Scientist  
-🏢 Founder of **JillaniSofTech** | 🧠 Expert in LLMs, RAG, MLOps  
+**Omar Francisco Arellano Ganem** - Principal Cloud AI Data Scientist  
 📊 **44+ AI Projects** delivered across industries  
-🔗 [Portfolio](https://mgjillanimughal.github.io/) | [LinkedIn](https://www.linkedin.com/in/jillanisofttech/)
+🔗 [LinkedIn](https://www.linkedin.com/in/omar-francisco-arellano-ganem/)
 
 ## 🎯 What It Does
 
@@ -70,8 +69,8 @@ CareerMind AI is a multi-agent system that revolutionizes job searching and care
 ### 1. Installation
 
 ```bash
-git clone https://github.com/MGJillaniMughal/CareerMind-AI-Multi-Agent-GenAI-Career-Assistant.git
-cd CareerMind-AI-Multi-Agent-GenAI-Career-Assistant
+git clone https://github.com/peak-omar/CareerMind-AI-Multi-Agent-GenAI-Career-Assistant-applicaiton.git
+cd CareerMind-AI-Multi-Agent-GenAI-Career-Assistant Application
 pip install -r requirements.txt
 ```
 
@@ -178,18 +177,11 @@ streamlit run app.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/MGJillaniMughal/CareerMind-AI-Multi-Agent-GenAI-Career-Assistant/issues)
-- **Email**: m.g.jillani123@gmail.com
-- **LinkedIn**: [JillaniSofTech](https://www.linkedin.com/in/jillanisofttech/)
-
 ## ⭐ Show Your Support
 
 If this project helped you, please give it a ⭐ star!
 
 
 <div align="center">
-  <strong>Built with ❤️ by Muhammad Ghulam Jillani (Jillani SofTech)</strong><br>
   <em>Revolutionizing careers through AI innovation</em>
 </div>
